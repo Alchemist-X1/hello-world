@@ -18,6 +18,9 @@ when you create it with README you could edit the README on website in MARKDOWN.
 ##learn about docker
 
 ###install
+
 you  can download docker desktop from (https://docs.docker.com/docker-for-windows/) and install it with guide.
 
-But if you can not run hello-world even if you have selected open hyper-V, you may need to check from Files Explorer while the Virtual Machine is enable or not. If it's not, change the model in BIOS. Then you may could run the hello-world. 
+But if you can not run hello-world even if you have selected open hyper-V, you may need to check from Files Explorer while the Virtual Machine is enable or not. 
+
+If it's not, change the model in BIOS. Then you may could run the hello-world. 
