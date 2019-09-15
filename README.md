@@ -11,12 +11,13 @@ For new learner there is a software [github desktop](https://desktop.github.com/
 Just download and install it, and register an account follow the guide, then you could start to learn how to work with it.
 
 ### 2 Create a repository and write a README
-When you first sign in the github desktop after created a new account, the software would ask to load a repository or create a new one. And I chose to create an new repository in a empty hard disk.
+When you first sign in the github desktop after created a new account, the software would ask to load a repository or create a new one. 
 
-*Fine!*
+when you create it with README you could edit the README on website in MARKDOWN.
 
-**I fialed to write a new README for my new repository branch created by github desktop.**
+##learn about docker
 
-***But it's ok***
+###install
+you  can download docker desktop from (https://docs.docker.com/docker-for-windows/) and install it with guide.
 
-***Because I find another way to edit on website.***
+But if you can not run hello-world even if you have selected open hyper-V, you may need to check from Files Explorer while the Virtual Machine is enable or not. If it's not, change the model in BIOS. Then you may could run the hello-world. 
